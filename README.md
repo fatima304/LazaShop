@@ -2,47 +2,6 @@
 
 A modern and sleek mobile commerce application built with **Flutter**, designed to provide users with a seamless shopping experience. This app is inspired by the **Laza E-commerce UI Kit** design and implements a clean architecture pattern with BLoC state management.
 
-
-## 🚀 How to Run the App
-
-### Prerequisites
-- Flutter SDK (version 3.9.2 or higher)
-- Dart SDK
-- Android Studio / VS Code
-- Android device/emulator or iOS device/simulator
-
-### Installation Steps
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/ecommerce_app.git
-   cd ecommerce_app
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**
-   ```bash
-   flutter run
-   ```
-
-4. **Build for production**
-   ```bash
-   # For Android APK
-   flutter build apk --release
-   
-   # For iOS
-   flutter build ios --release
-   ```
-
-### Troubleshooting
-- If you encounter dependency issues, run `flutter clean` followed by `flutter pub get`
-- For Android build issues, ensure you have the latest Android SDK installed
-- For iOS build issues, ensure you have Xcode installed (macOS only)
-
 ## ✨ Implemented Features
 
 ### 🔐 Authentication System
